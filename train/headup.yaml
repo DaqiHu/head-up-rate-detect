@@ -1,0 +1,8 @@
+path: 
+train: 
+val: 
+test:
+
+# Classes
+nc: 2
+names: ["normal", "headup"]
