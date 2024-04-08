@@ -1,2 +1,3 @@
 torch       # PyTorch installation vary on device (e.g. CUDA), we recommend install manually.
 ultralytics # Yolov8
+tensorboard # For training
